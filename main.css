@@ -68,3 +68,15 @@ li {
     background-color: var(--btnBg);
   }
   .btn2:focus { outline-style: none; }
+.btn3 {
+    position: absolute;
+    top: 2%;
+    left: 70%;
+    height: 5%;
+    width: 5%;
+    border-radius: 50%;
+    border: none;
+    color: var(--btnFontColor);
+    background-color: var(--btnBg);
+  }
+  .btn3:focus { outline-style: none; }
