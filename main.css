@@ -1,7 +1,12 @@
 :root {
   --green: #00FF00;
   --white: #ffffff;
+  --lightBlue: #aee8fa;
   --black: #000000;
+  --darkBlue: #07475b;
+  --grey: #808080;
+  
+  --lightBlue2: #95b6c0;
 }
 *{
   color: var(--fontColor);
@@ -49,16 +54,16 @@ li {
 .col-12 {width: 100%;}
 
 .light-theme {
-  --bg: var(--white);
+  --bg: var(--lightBlue);
   --fontColor: var(--black);
-  --btnBg: var(--black);
-  --btnFontColor: var(--green);
+  --btnBg: var(--darkBlue);
+  --btnFontColor: var(--white);
 }
 
 .dark-theme {
-  --bg: var(--black);
-  --fontColor: var(--green);
-  --btnBg: var(--white);
+  --bg: var(--darkBlue);
+  --fontColor: var(--lightBlue2);
+  --btnBg: var(--lightBlue);
   --btnFontColor: var(--black);
 }
 .btn {
@@ -78,7 +83,7 @@ li {
 }
 .btn:focus { outline-style: none; }
 .btn:hover{
-  color: var(--white);
+  background-color: var(--grey);
 }
 
 .btn2 {
@@ -98,7 +103,7 @@ li {
 }
 .btn2:focus { outline-style: none; }
 .btn2:hover{
-  color: var(--white);
+  background-color: var(--grey);
 }
 
 
@@ -115,5 +120,5 @@ li {
 }
 .btn3:focus { outline-style: none; }
 .btn3:hover{
-  color: var(--white);
+  background-color: var(--grey);
 }
