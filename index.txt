@@ -56,23 +56,23 @@ look forward to being able to put my acquired skills to the test.
 
 ## service
 
-What i'm doing
+Personal Skills
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Project Planning
+Planning projects and deployments which connect various aspects of computer science.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Coding
+High-quality development of solutions at the professional level.
 
 alt = mobile app icon
 Mobile apps
-Professional development of applications for iOS and Android.
+Creating applications that are easy to navigate and use for the average person.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Augmented Reality 
+Creating projects which add virtual landscapes to the real world.
 
 
 ## testimonials
