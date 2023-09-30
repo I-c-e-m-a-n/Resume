@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Guruprasad Nayak
+Guruprasad Nayak
+Artificial Intelligence
 
 Show Contacts
 
 Email
-richard@example.com
+guruprasadnayak24@gmail.com
 
 Phone
-+1 (213) 352-2795
++65 9278 0697
 
 Birthday
-June 23, 1982
+December 19, 2001
 
 Location
-Sacramento, California, USA
+Singaproe
 
 # navbar
 
