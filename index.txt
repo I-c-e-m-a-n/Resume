@@ -113,23 +113,26 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Canadian International School
+AUGUST 2013 - JUNE 2019
+Completed the MYP and DP program from the International Baccalaureate curriculum. 
 
-New york academy of art
-2006 — 2007
+University of Delaware
+AUGUST 2019 - JUNE 2023
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
 High school of art and design
 2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Completed a degree in Computer Science with a concentration in Artificial Intelligence.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Ernst and Young: Cyber-Security Internship
+JUNE 2019 - JUNE 2019
+Shadowed Cybersecurity professionals to develop skills and use tools for exploiting vulnerabilities
+Learned to use cybersecurity tools such as Metasploit, Wireshark and Kali operating system to infiltrate systems and gather relevant data</
+Conducted social engineering attacks on employees in the organization to test security protocols
+Navigated server systems using command line interface and found files and information on targets
 
 Art director
 2013 — 2015
