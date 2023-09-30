@@ -83,18 +83,20 @@ alt = AI : Implications for Business Strategy
 AI : Implications for Business Strategy
 Focusing on key AI technologies, such as machine learning, natural language processing, and robotics, the course will helps understand the implications of these new technologies for business strategy, as well as the economic and societal issues they raise. MIT expert instructors examine how artificial intelligence will complement and strengthen the workforce rather than just eliminate jobs. Additionally, the program will emphasize how the collective intelligence of people and computers together can solve business problems that not long ago were considered impossible.
 
-alt = Jessica miller
-Jessica miller
+alt = Certified Ethical Hacker
+Certified Ethical Hacker
+Having an understanding of system weaknesses and vulnerabilities, the CEH course helps students learn to protect their organizations and strengthen their security controls in order to minimize the risk of a malicious attack.
+
+alt = Blockchain Technologies: Business innovation and Application
+Blockchain Technologies: Business innovation and Application
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Emily evans
-Emily evans
+alt = Internet of things: Business Implications and Opportunities
+Internet of things: Business Implications and Opportunities
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+alt = Machine Learning
+Machine Learning
 
 ## clients
 
