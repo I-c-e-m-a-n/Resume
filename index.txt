@@ -32,9 +32,26 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I have always been a problem solver and regularly excelled in math with a strong
+analytical mindset. At the age of 14, I was finally able to put my skills to the test when I
+created my first computer program for a Lego Mindstorms robot. It required the robot to
+navigate an obstacle course for the First Lego League competition which was held in
+Singapore.
+ 
+The competition sparked my interest in technology and since then, I have moved on to
+more structured projects like coding websites, creating video games, implementing data
+structures and algorithms, among other projects. I didn’t realize this when I was coding
+for the competition, but the first program I wrote was coincidently about implementing
+artificial intelligence.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Subsequently, I decided to pursue Artificial Intelligence as a part of my Computer
+Science major. My current interest lies in Neural Networks, more specifically Deep
+Learning and Reinforcement Learning.
+ 
+There aren’t many fields that incite my passion as much as AI. Having already
+completed several courses externally from reputed universities like MIT and Stanford, I
+look forward to being able to put my acquired skills to the test. 
+
 
 
 ## service
