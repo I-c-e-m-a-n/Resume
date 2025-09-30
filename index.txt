@@ -29,25 +29,9 @@ Contact
 
 About me
 
-I have always been a problem solver and regularly excelled in math with a strong
-analytical mindset. At the age of 14, I was finally able to put my skills to the test when I
-created my first computer program for a Lego Mindstorms robot. It required the robot to
-navigate an obstacle course for the First Lego League competition which was held in
-Singapore.
- 
-The competition sparked my interest in technology and since then, I have moved on to
-more structured projects like coding websites, creating video games, implementing data
-structures and algorithms, among other projects. I didn’t realize this when I was coding
-for the competition, but the first program I wrote was coincidently about implementing
-artificial intelligence.
+Results-oriented Computer Science graduate with a B.S. in Computer Science (Artificial Intelligence concentration) from the University of Delaware, with additional graduate-level research experience in Human-Computer Interaction, where I helped design AI-driven tools to aid children with autism. My academic background includes coursework in machine learning, quantum computing, parallel computing, data structures, and rapid prototyping, providing me with a strong technical foundation across AI, data science, and emerging technologies. Certified in Ethical Hacking (CEH) and having completed specialized programs in AI, blockchain, and IoT from MIT Sloan, I bring both breadth and depth in applying advanced technologies to real-world problems.
 
-Subsequently, I decided to pursue Artificial Intelligence as a part of my Computer
-Science major. My current interest lies in Neural Networks, more specifically Deep
-Learning and Reinforcement Learning.
- 
-There aren’t many fields that incite my passion as much as AI. Having already
-completed several courses externally from reputed universities like MIT and Stanford, I
-look forward to being able to put my acquired skills to the test. 
+Complementing my academic foundation are two years of operational leadership through National Service in the Singapore Armed Forces, where I led a team of 30 operators, managed large-scale training and scheduling, and architected the unit’s first digital transformation platform that reduced manpower requirements by ~80%. I also built automation tools that saved ~60 hours of manual reporting each month and was recognized with the 23SA Regimental Sergeant Major Coin and the Safety Steward Award for my contributions. My earlier cybersecurity internships with the Maharashtra Cyber Police and Ernst & Young exposed me to OSINT investigations, anomaly detection, penetration testing, and risk modeling, sharpening my ability to identify patterns and deliver actionable intelligence. Together, these experiences demonstrate a proven ability to integrate technical expertise with leadership, innovation, and operational execution across defense, academia, and cybersecurity domains.
 
 
 
